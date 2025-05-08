@@ -34,7 +34,7 @@ BDA believes that open source tools should exist to enable researchers and engin
 - Process Coming Soon. In the mean time, please open a discussion on [discourse](http://bda.discourse.group) and a moderator will reach out.
 
 ## Become a Member
-- Join as a LF Energy Member
+- Join as a [LF Energy Member](https://lfenergy.org/become-a-member/) 
 <!--
 
 **Here are some ideas to get you started:**
