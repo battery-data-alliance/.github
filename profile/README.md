@@ -1,13 +1,6 @@
 ## Welcome to the Battery Data Alliance! 👋
 
-We are building sustainable open source software, best practices, and delivering standards for the battery industry.
-
-## About Us
-The LF Energy Battery Data Alliance (BDA) was created to bring battery companies together to reduce the repeat work done in the battery industry. 
-
-Battery data is core to creating a decarbonized economy and power systems, yet companies waste tremendous amounts of time implementing battery data schemas, integrations/conversions, typical calculations, etc. 
-
-BDA believes that open source tools should exist to enable researchers and engineers to focus on bringing more innovative solutions to market rather than each organization duplicating the same work.
+We are building sustainable open source software, best practices, and delivering standards for the battery industry. We believe that open source tools should exist to enable researchers and engineers to focus on bringing more innovative solutions to market rather than each organization duplicating the same work.
 
 ## How to participate
 
