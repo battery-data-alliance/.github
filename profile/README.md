@@ -9,18 +9,6 @@ Battery data is core to creating a decarbonized economy and power systems, yet c
 
 BDA believes that open source tools should exist to enable researchers and engineers to focus on bringing more innovative solutions to market rather than each organization duplicating the same work.
 
-## Goals:
-- Standardization: Bring cohesion to the battery software sector by establishing universally accepted practices, schemas, and configuration protocols.
-- Efficiency: Streamline the process of data collection, conversion, and testing equipment configuration to eliminate redundancy and facilitate smoother workflows.
-- Open-Source Collaboration: Unite battery software developers and engineers in an environment where open-source resources can be curated, shared, and evolved to benefit the entire industry.
-
-## Objectives:
-- Design: Launch a comprehensive battery data catalog, aggregating all open-source data, thus simplifying the cell selection process for manufacturers.
-- Testing: Establish an automated and standardized approach to configuring the myriad cyclers in the market, while bridging the gap between existing testing standards and their execution.
-- Manufacturing: Develop a consistent battery data schema and provide open-source tools for efficient data conversion, easing the collaborative process among manufacturers.
-- Telemetry: Venture into the untapped realm of battery telemetry with an open-source perspective, aiming to revolutionize data collection at scale.
-
-
 ## How to participate
 
 - Join the discussion on [discourse](http://bda.discourse.group)
